@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.li-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+}
+.lis {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.pname {
+  margin-right: 10px;
+}

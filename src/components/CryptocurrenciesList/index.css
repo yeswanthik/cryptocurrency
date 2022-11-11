@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.ul-items {
+  border: 2px, solid, #00e7ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+}
+.headings {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 16px;
+  background-color: #092633;
+}
+.coin {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+  margin-right: 10px;
+}
